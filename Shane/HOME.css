@@ -48,7 +48,7 @@ width: 99%;
 
 h1{
 font-size: 64px;
-margin: 20px 0px 0px 100px;
+margin: 20px 0px 50px 100px;
 color: white;
 }
 
@@ -60,7 +60,7 @@ color: white;
 
 p{
 font-size: 32px;
-margin: 0px 0px 0px 0px;
+margin: 20px 0px 0px 0px;
 color: white;
 }
 
@@ -77,9 +77,11 @@ width: 100%;
 }
 
 .text{
-padding: 20px 0px 20px 0px;
 text-align: justify;
 text-align-last: center;
-margin: 0 auto;
+margin-right: auto;
+margin-left: auto;
+margin-top: 20px;
+margin-bottom: 20px;
 width: 80em;
 }
